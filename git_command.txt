@@ -1,0 +1,6 @@
+my git lab
+cd.....
+cd new folder name 
+md>
+git init
+git add file
